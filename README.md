@@ -10,9 +10,9 @@ This system uses a **Raspberry Pi** integrated with face expression recognition 
 - 🔋 **Energy Efficient:** Conserves power by activating lights only when necessary.  
 
 ## 🧠 Technologies Used  
-**Hardware:** Raspberry Pi, Camera Module, LDR Sensor, LEDs, Buzzer  
+**Hardware:** Raspberry Pi, Camera Module, PIR Sensor, LEDs, Buzzer  
 **Programming Languages:** Python, OpenCV  
-**Libraries/Frameworks:** TensorFlow / Keras, NumPy, GPIO Zero  
+**Libraries/Frameworks:** TensorFlow / Keras, NumPy 
 **Concepts:** Image Processing, Facial Emotion Recognition, IoT Automation  
 
 ## 🧩 System Architecture  
@@ -32,3 +32,4 @@ This system uses a **Raspberry Pi** integrated with face expression recognition 
 - Integration with **cloud services** for remote monitoring.  
 - Adding **GPS-based location tracking** for emergency alerts.  
 - Expanding the emotion dataset for higher accuracy.  
+
