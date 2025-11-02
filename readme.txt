@@ -1,9 +1,9 @@
 The Street Light SOS System is an intelligent safety and automation project designed to enhance public security using IoT and AI.
 This system uses a Raspberry Pi integrated with face expression recognition to detect distress or unusual emotions on a person’s face and trigger automatic SOS alerts along with smart street light activation.
 
-#⚙️ Key Features
+##⚙️ Key Features
 
-💡 Smart Street Lighting: Automatically turns ON/OFF based on presence and environmental light.
+💡 **Smart Street Lighting**: Automatically turns ON/OFF based on presence and environmental light.
 
 😨 Facial Expression Detection: Recognizes emotions such as fear, distress, or panic using deep learning models.
 
@@ -40,3 +40,4 @@ Real-time emotion detection displayed on the screen.
 Immediate activation of lights and buzzer on distress detection.
 
 Improved safety and optimized energy usage.
+
